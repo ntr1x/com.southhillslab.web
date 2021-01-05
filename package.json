@@ -13,7 +13,7 @@
     "@babel/polyfill": "^7.0.0-rc.1",
     "@vueneue/ssr-core": "^0.3.0",
     "@vueneue/ssr-server": "^0.3.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bignumber.js": "^8.1.1",
     "config": "^3.0.1",
     "core-js": "^2.5.7",
